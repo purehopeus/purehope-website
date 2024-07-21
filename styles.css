@@ -1,0 +1,111 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "bb315930-6e2f-49a3-bab2-02a16d7f106b",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "invalid decimal literal (3662636476.py, line 19)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  Cell \u001b[0;32mIn[1], line 19\u001b[0;36m\u001b[0m\n\u001b[0;31m    padding: 10px 20px;\u001b[0m\n\u001b[0m              ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid decimal literal\n"
+     ]
+    }
+   ],
+   "source": [
+    "/* Reset default browser styles */\n",
+    "* {\n",
+    "    margin: 0;\n",
+    "    padding: 0;\n",
+    "    box-sizing: border-box;\n",
+    "}\n",
+    "\n",
+    "body {\n",
+    "    font-family: Arial, sans-serif;\n",
+    "    line-height: 1.6;\n",
+    "    background-color: #f0f0f0;\n",
+    "    margin: 0;\n",
+    "    padding: 0;\n",
+    "}\n",
+    "\n",
+    "header {\n",
+    "    background-color: #333;\n",
+    "    color: #fff;\n",
+    "    padding: 10px 20px;\n",
+    "    text-align: center;\n",
+    "}\n",
+    "\n",
+    "header h1 {\n",
+    "    margin: 0;\n",
+    "}\n",
+    "\n",
+    "nav ul {\n",
+    "    list-style-type: none;\n",
+    "}\n",
+    "\n",
+    "nav ul li {\n",
+    "    display: inline;\n",
+    "    margin-right: 10px;\n",
+    "}\n",
+    "\n",
+    "nav ul li a {\n",
+    "    color: #fff;\n",
+    "    text-decoration: none;\n",
+    "    font-size: 16px;\n",
+    "}\n",
+    "\n",
+    "main {\n",
+    "    padding: 20px;\n",
+    "}\n",
+    "\n",
+    "section {\n",
+    "    background-color: #fff;\n",
+    "    padding: 20px;\n",
+    "    margin-bottom: 20px;\n",
+    "}\n",
+    "\n",
+    "footer {\n",
+    "    text-align: center;\n",
+    "    padding: 10px;\n",
+    "    background-color: #333;\n",
+    "    color: #fff;\n",
+    "    position: fixed;\n",
+    "    bottom: 0;\n",
+    "    width: 100%;\n",
+    "}\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b9ebfd3f-ce1f-4bec-8fc5-7d407b66b479",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-ai-2024.04-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-ai-2024.04-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
